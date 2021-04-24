@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
-//定义栈数据结构
+//声明栈数据结构
 struct Stack
 {
 	int* top;
 	int* bottom;
 	int data[64];
 };
-struct Stack A = { &A.data[1],&A.data[0],0 };
+struct Stack A = { &A.data[1],&A.data[0],0 };//定义三个栈（由于盘子只能在上面出入，不能在下方出入）
 struct Stack B = { &B.data[1],&B.data[0],0 };
 struct Stack C = { &C.data[1],&C.data[0],0 };
 
