@@ -9,6 +9,7 @@
 图片![image](https://user-images.githubusercontent.com/83108067/115949529-5fc50180-a508-11eb-9b89-02fe589f2c45.png)
 
 二、算法层解释
-  图片：![image](https://user-images.githubusercontent.com/83108067/115949562-8edb7300-a508-11eb-918c-aafeec438505.png)
+  图片：
+  ![image](https://user-images.githubusercontent.com/83108067/115949562-8edb7300-a508-11eb-918c-aafeec438505.png)
   
  如果大家有什么简化的方法？欢迎创建一个new branch（源文件的备份），并在备份上进行修改/新增功能，修改完成后点击pull request，进入讨论环节，如果新代码没有出现错误，就可以merge（融合新增代码）/直接使用新代码
